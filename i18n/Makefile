@@ -24,7 +24,7 @@ $(TEMPLATE_UI): $(DEFINITIONS)
 	xgettext --package-name=$(DOMAIN) --default-domain=$(DOMAIN) --from-code=utf-8 -L glade $(DEFINITIONS) -o $(TEMPLATE_UI)
 
 $(TEMPLATE_CODE): $(IN_FILES)
-	xgettext --package-name=$(DOMAIN) --default-domain=$(DOMAIN) --from-code=utf-8 -L python $(IN_FILES) --keyword=Local -o $(TEMPLATE_CODE)
+	xgettext --package-name=$(DOMAIN) --default-domain=$(DOMAIN) --from-code=utf-8 -L python $(IN_FILES) --keyword=Local --keyword=T -o $(TEMPLATE_CODE)
 
 %.po: $(TEMPLATE_UI) $(TEMPLATE_CODE)
 	./update-locales $(TEMPLATE_UI) $@
