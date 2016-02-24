@@ -289,15 +289,15 @@ msgstr "Puerto:"
 
 #: ../gui/definitions/FeedbackInfo.xml:12
 msgid "Are you liking it?"
-msgstr ""
+msgstr "¿Te gusta?"
 
 #: ../gui/definitions/FeedbackInfo.xml:22 ../gui/definitions/Main.xml:78
 msgid "Feedback"
-msgstr ""
+msgstr "Feedback"
 
 #: ../gui/definitions/Feedback.xml:3
 msgid "We would like to receive your feedback"
-msgstr ""
+msgstr "Nos gustaría recibir tu feedback"
 
 #: ../gui/definitions/Feedback.xml:4
 msgid ""
@@ -305,51 +305,55 @@ msgid ""
 "This is the only way we can create a better tool to keep your conversations "
 "private."
 msgstr ""
+"Por favor, dinos cómo te está yendo al usar CoyIM.\n"
+"Es la única forma en la que podemo crear una mejor herramienta para mantener privadas "
+"tus conversaciones."
 
 #: ../gui/definitions/Feedback.xml:5
 msgid "https://coy.im/feedback"
-msgstr ""
+msgstr "https://coy.im/feedback"
 
 #: ../gui/definitions/Importer.xml:12
 msgid "Import Accounts"
-msgstr ""
+msgstr "Importar Cuentas"
 
 #: ../gui/definitions/Importer.xml:21
 msgid ""
 "Choose the accounts you would like to import and start using from CoyIM."
 msgstr ""
+"Escoger las cuentas que te gustaría importar y empezar a usarlas en CoyIM."
 
 #: ../gui/definitions/Importer.xml:40
 msgid "Import this"
-msgstr ""
+msgstr "Importar esto"
 
 #: ../gui/definitions/Importer.xml:54
 msgid "From application"
-msgstr ""
+msgstr "Desde la aplicación"
 
 #: ../gui/definitions/Importer.xml:66
 msgid "Account name"
-msgstr ""
+msgstr "Nombre de la cuenta"
 
 #: ../gui/definitions/Importer.xml:96
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 #: ../gui/definitions/Main.xml:22
 msgid "Contacts"
-msgstr ""
+msgstr "Contactos"
 
 #: ../gui/definitions/Main.xml:29
 msgid "Add..."
-msgstr ""
+msgstr "Añadir..."
 
 #: ../gui/definitions/Main.xml:40
 msgid "Accounts"
-msgstr ""
+msgstr "Cuentas"
 
 #: ../gui/definitions/Main.xml:46
 msgid "View"
-msgstr ""
+msgstr "Vista"
 
 #: ../gui/definitions/Main.xml:53
 msgid "Merge Accounts"
