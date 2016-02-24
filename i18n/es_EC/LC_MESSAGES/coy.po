@@ -209,23 +209,23 @@ msgstr "OK"
 
 #: ../gui/definitions/ConfirmAccountRemoval.xml:3
 msgid "Confirm account removal"
-msgstr ""
+msgstr "Confirmar la eliminación de la cuenta"
 
 #: ../gui/definitions/ConfirmAccountRemoval.xml:4
 msgid "Are you sure you want to remove this account?"
-msgstr ""
+msgstr "¿Estás seguro de que deseas remover esta cuenta?"
 
 #: ../gui/definitions/ContactPopupMenu.xml:5
 msgid "Fingerprints..."
-msgstr ""
+msgstr "Huellas digitales..."
 
 #: ../gui/definitions/ContactPopupMenu.xml:14
 msgid "Remove"
-msgstr ""
+msgstr "Remover"
 
 #: ../gui/definitions/ContactPopupMenu.xml:20
 msgid "Rename..."
-msgstr ""
+msgstr "Renombrar..."
 
 #: ../gui/definitions/ContactPopupMenu.xml:29
 msgid "Ask contact to see their status"
@@ -233,59 +233,59 @@ msgstr ""
 
 #: ../gui/definitions/ContactPopupMenu.xml:35
 msgid "Allow contact to see my status"
-msgstr ""
+msgstr "Permitir a los contactos ver mi estado"
 
 #: ../gui/definitions/ContactPopupMenu.xml:41
 msgid "Forbid contact to see my status"
-msgstr ""
+msgstr "Prohibir a los contactos ver mi estado"
 
 #: ../gui/definitions/ConversationPane.xml:12
 msgid "Developer options"
-msgstr ""
+msgstr "Optiones para Desarrollador"
 
 #: ../gui/definitions/ConversationPane.xml:19
 msgid "Start encrypted chat"
-msgstr ""
+msgstr "Empezar el chat encriptado"
 
 #: ../gui/definitions/ConversationPane.xml:26
 msgid "End encrypted chat"
-msgstr ""
+msgstr "Terminar el chat encriptado"
 
 #: ../gui/definitions/ConversationPane.xml:33
 msgid "Verify fingerprint"
-msgstr ""
+msgstr "Verificar huella digital"
 
 #: ../gui/definitions/ConversationPane.xml:66
 msgid "You are talking over an unprotected channel"
-msgstr ""
+msgstr "Estás hablando a través de un canal desprotegido"
 
 #: ../gui/definitions/ConversationPane.xml:78
 msgid "Secure chat"
-msgstr ""
+msgstr "Chat seguro"
 
 #: ../gui/definitions/EditProxy.xml:3
 msgid "Edit Proxy"
-msgstr ""
+msgstr "Editar Proxy"
 
 #: ../gui/definitions/EditProxy.xml:17
 msgid "Proxy type:"
-msgstr ""
+msgstr "Tipo de Proxy:"
 
 #: ../gui/definitions/EditProxy.xml:38
 msgid "User:"
-msgstr ""
+msgstr "Usuario:"
 
 #: ../gui/definitions/EditProxy.xml:58
 msgid "Password:"
-msgstr ""
+msgstr "Clave:"
 
 #: ../gui/definitions/EditProxy.xml:79
 msgid "Server:"
-msgstr ""
+msgstr "Servidor:"
 
 #: ../gui/definitions/EditProxy.xml:99
 msgid "Port:"
-msgstr ""
+msgstr "Puerto:"
 
 #: ../gui/definitions/FeedbackInfo.xml:12
 msgid "Are you liking it?"
