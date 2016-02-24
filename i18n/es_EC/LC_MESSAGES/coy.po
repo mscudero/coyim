@@ -147,35 +147,35 @@ msgstr "Editar..."
 #: ../gui/definitions/AccountPopupMenu.xml:29
 #: ../gui/definitions/ContactPopupMenu.xml:50
 msgid "Dump info"
-msgstr ""
+msgstr "Volcar información"
 
 #: ../gui/definitions/AccountRegistration.xml:15
 msgid "Choose a server to register your account"
-msgstr ""
+msgstr "Elegir un servidor para registrar tu cuenta"
 
 #: ../gui/definitions/AccountRegistration.xml:65
 msgid "Apply"
-msgstr ""
+msgstr "Aplicar"
 
 #: ../gui/definitions/AddContact.xml:4 ../gui/definitions/RenameContact.xml:4
 msgid "Add contact"
-msgstr ""
+msgstr "Añadir contacto"
 
 #: ../gui/definitions/AddContact.xml:41
 msgid "Contact to add (for example: arnoldsPub@jabber.ccc.de)"
-msgstr ""
+msgstr "Contacto para añadir (por ejemplo: arnoldsPub@jabber.ccc.de)"
 
 #: ../gui/definitions/AddContact.xml:62
 msgid "Add"
-msgstr ""
+msgstr "Añadir"
 
 #: ../gui/definitions/AskForPassword.xml:4
 msgid "Enter your password"
-msgstr ""
+msgstr "Ingresa tu clave"
 
 #: ../gui/definitions/AskToEncrypt.xml:5
 msgid "Encrypt configuration file"
-msgstr ""
+msgstr "Ecriptar archivo de configuración"
 
 #: ../gui/definitions/AskToEncrypt.xml:6
 msgid ""
@@ -184,24 +184,28 @@ msgid ""
 "configuration if you lose the password. You will only be asked for your "
 "password when CoyIM starts."
 msgstr ""
+"¿Te gustaría guardar tu archivo de configuración en un formato encriptado?. Esto "
+"podría ser significativamente más seguro, pero no podrás acceder a tu "
+"configuración si pierdes tu clave. Solo te pedirán tu "
+"clave cuando CoyIM inicie."
 
 #: ../gui/definitions/AuthorizeSubscription.xml:3
 msgid "Subscription request"
-msgstr ""
+msgstr "Solicitud de suscripción"
 
 #: ../gui/definitions/CaptureInitialMasterPassword.xml:4
 msgid "Configure master password"
-msgstr ""
+msgstr "Configurar la clave maestra"
 
 #: ../gui/definitions/CaptureInitialMasterPassword.xml:15
 msgid "Please enter the master password for the configuration file, two times."
-msgstr ""
+msgstr "Por favor ingresa la clave maestra para el archivo de configuración, dos veces."
 
 #: ../gui/definitions/CaptureInitialMasterPassword.xml:60
 #: ../gui/definitions/MasterPassword.xml:49
 #: ../gui/definitions/VerifyFingerprintUnknown.xml:19
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ../gui/definitions/ConfirmAccountRemoval.xml:3
 msgid "Confirm account removal"
