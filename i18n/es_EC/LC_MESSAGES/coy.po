@@ -1,5 +1,5 @@
 # Spanish translations for coy package
-# Traducciones al espa�ol para el paquete coy.
+# Traducciones al español para el paquete coy.
 # Copyright (C) 2016 THE coy'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the coy package.
 # Automatically generated, 2016.
@@ -27,50 +27,52 @@ msgid ""
 "Your account\n"
 "(example: kim42@dukgo.com)"
 msgstr ""
+"Tu cuenta\n"
+"(ejemplo: kim42@dukgo.com)"
 
 #: ../gui/definitions/AccountDetails.xml:60
 #: ../gui/definitions/AskForPassword.xml:36
 msgid "Password"
-msgstr ""
+msgstr "Contraseña"
 
 #: ../gui/definitions/AccountDetails.xml:81
 msgid "Display all settings"
-msgstr ""
+msgstr "Mostrar todas las configuraciones"
 
 #: ../gui/definitions/AccountDetails.xml:105
 #: ../gui/definitions/AddContact.xml:22
 #: ../gui/definitions/AskForPassword.xml:15
 msgid "Account"
-msgstr ""
+msgstr "Cuenta"
 
 #: ../gui/definitions/AccountDetails.xml:124
 msgid "Server (leave empty for default)"
-msgstr ""
+msgstr "Servidor (dejar en blanco por defecto)"
 
 #: ../gui/definitions/AccountDetails.xml:143
 msgid "Port (leave empty for default)"
-msgstr ""
+msgstr "Puerto (dejar en blanco por defecto"
 
 #: ../gui/definitions/AccountDetails.xml:165
 #: ../gui/definitions/AccountRegistration.xml:29
 msgid "Server"
-msgstr ""
+msgstr "Servidor"
 
 #: ../gui/definitions/AccountDetails.xml:239 ../gui/accounts_menu.go:45
 msgid "_Add..."
-msgstr ""
+msgstr "_Añadir..."
 
 #: ../gui/definitions/AccountDetails.xml:254 ../gui/account.go:207
 msgid "_Remove"
-msgstr ""
+msgstr "_Remover"
 
 #: ../gui/definitions/AccountDetails.xml:269 ../gui/account.go:204
 msgid "_Edit..."
-msgstr ""
+msgstr "_Editar..."
 
 #: ../gui/definitions/AccountDetails.xml:299
 msgid "Proxies"
-msgstr ""
+msgstr "Proxies"
 
 #: ../gui/definitions/AccountDetails.xml:329
 msgid ""
