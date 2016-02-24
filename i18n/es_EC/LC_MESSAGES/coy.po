@@ -81,14 +81,18 @@ msgid ""
 "existing private keys will be deleted, since current there is no way to "
 "choose which key to use for encrypted chat."
 msgstr ""
+"Los botones abajo te permiten importar llaves privadas y huellas digitales. Las"
+"dos deberían estar en el formato Pidgin/libotr. Si importas llaves privadas, tus "
+"llaves privadas existentes serán borradas, ya que actualmente no hay manera de "
+"elegir cuál de las llaves usar para el chat encriptado."
 
 #: ../gui/definitions/AccountDetails.xml:342
 msgid "Import Private _Keys..."
-msgstr ""
+msgstr "Importar LLaves _Privadas..."
 
 #: ../gui/definitions/AccountDetails.xml:356
 msgid "Import _Fingerprints..."
-msgstr ""
+msgstr "Importar _Huellas Digitales..."
 
 #: ../gui/definitions/AccountDetails.xml:370
 msgid ""
@@ -96,18 +100,21 @@ msgid ""
 "careful with the files that come out of this process, since they contain "
 "potentially sensitive data. The export will be in Pidgin/libotr format."
 msgstr ""
+"Los botones de abajo te permiten exportar llaves privadas y huellas digitales. Ten "
+"cuidado con los archivo que resultan de este proceso, ya que ellos contienen "
+"data potencialmente sensible. La exportación será en el formato Pidgin/libotr."
 
 #: ../gui/definitions/AccountDetails.xml:383
 msgid "Export Private Keys..."
-msgstr ""
+msgstr "Exportar Llaves Privadas..."
 
 #: ../gui/definitions/AccountDetails.xml:396
 msgid "Export Fingerprints..."
-msgstr ""
+msgstr "Exportar Huellas Digitales..."
 
 #: ../gui/definitions/AccountDetails.xml:414
 msgid "Encryption"
-msgstr ""
+msgstr "Encriptación"
 
 #: ../gui/definitions/AccountDetails.xml:430
 #: ../gui/definitions/AccountRegistration.xml:60
@@ -117,25 +124,25 @@ msgstr ""
 #: ../gui/definitions/RegistrationForm.xml:38
 #: ../gui/definitions/VerifyFingerprint.xml:18
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: ../gui/definitions/AccountDetails.xml:436
 #: ../gui/definitions/EditProxy.xml:131
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: ../gui/definitions/AccountPopupMenu.xml:5
 #: ../gui/definitions/AskForPassword.xml:67
 msgid "Connect"
-msgstr ""
+msgstr "Conectar"
 
 #: ../gui/definitions/AccountPopupMenu.xml:11
 msgid "Disconnect"
-msgstr ""
+msgstr "Desconectar"
 
 #: ../gui/definitions/AccountPopupMenu.xml:20
 msgid "Edit..."
-msgstr ""
+msgstr "Editar..."
 
 #: ../gui/definitions/AccountPopupMenu.xml:29
 #: ../gui/definitions/ContactPopupMenu.xml:50
