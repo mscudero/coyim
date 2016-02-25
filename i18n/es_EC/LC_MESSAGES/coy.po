@@ -357,66 +357,68 @@ msgstr "Vista"
 
 #: ../gui/definitions/Main.xml:53
 msgid "Merge Accounts"
-msgstr ""
+msgstr "Combinar Cuentas"
 
 #: ../gui/definitions/Main.xml:60
 msgid "Show Offline Contacts"
-msgstr ""
+msgstr "Mostrar los Contactos que no están conectados"
 
 #: ../gui/definitions/Main.xml:71
 msgid "Help"
-msgstr ""
+msgstr "Ayuda"
 
 #: ../gui/definitions/Main.xml:85
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
 #: ../gui/definitions/MasterPassword.xml:4
 msgid "Enter master password"
-msgstr ""
+msgstr "Ingresar la clave maestra"
 
 #: ../gui/definitions/MasterPassword.xml:15
 msgid ""
 "Please enter the master password for the configuration file. You will not be "
 "asked for this password again until you restart CoyIM."
 msgstr ""
+"Por favor ingrese la clave maestra para el archivo de configuración. No te "
+"pedirán otra vez la clave hasta que reinicies CoyIM."
 
 #: ../gui/definitions/PeerFingerprints.xml:3
 msgid "Peer fingerprints"
-msgstr ""
+msgstr "Mirar huellas digitales"
 
 #: ../gui/definitions/PeerFingerprints.xml:28
 msgid "_OK"
-msgstr ""
+msgstr "_OK"
 
 #: ../gui/definitions/RegistrationForm.xml:44
 msgid "Register"
-msgstr ""
+msgstr "Registrar"
 
 #: ../gui/definitions/RenameContact.xml:22
 msgid "Contact's new name"
-msgstr ""
+msgstr "Nuevo nombre de contacto"
 
 #: ../gui/definitions/RenameContact.xml:43
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #: ../gui/definitions/UnifiedLayout.xml:141
 msgid "Conversations"
-msgstr ""
+msgstr "Conversaciones"
 
 #: ../gui/definitions/UnifiedLayout.xml:167
 msgid "icon"
-msgstr ""
+msgstr "ícono"
 
 #: ../gui/definitions/UnifiedLayout.xml:181
 msgid "column"
-msgstr ""
+msgstr "columna"
 
 #: ../gui/definitions/VerifyFingerprint.xml:23
 #: ../gui/definitions/VerifyIdentityNotification.xml:20
 msgid "Verify"
-msgstr ""
+msgstr "Verificar"
 
 #: ../gui/account_details.go:95
 #, python-format
@@ -424,234 +426,236 @@ msgid ""
 "Your fingerprints for %s:\n"
 "%s"
 msgstr ""
+"Sus huellas digitales para %s:\n"
+"%s"
 
 #: ../gui/peer_information.go:26
 #, python-format
 msgid "There are no known fingerprints for %s"
-msgstr ""
+msgstr "No hay huellas digitales conocidas para %s"
 
 #: ../gui/peer_information.go:28
 #, python-format
 msgid "These are the fingerprints known for %s:"
-msgstr ""
+msgstr "Estas son las huellas digitales conocidas para %s:"
 
 #: ../gui/peer_information.go:34
 msgid "not trusted"
-msgstr ""
+msgstr "no es confiable"
 
 #: ../gui/peer_information.go:36
 msgid "trusted"
-msgstr ""
+msgstr "confiable"
 
 #: ../gui/ui.go:427
 msgid "Coy IM!"
-msgstr ""
+msgstr "Coy IM!"
 
 #: ../gui/ui.go:453
 msgid "There is no account with the id %q"
-msgstr ""
+msgstr "No hay una cuenta con el id %q"
 
 #: ../gui/ui.go:457
 msgid "Can't send a contact request from an offline account"
-msgstr ""
+msgstr "No se puede enviar una petición de contacto desde una cuenta fuera de línea"
 
 #: ../gui/master_password.go:30
 msgid "Password can not be empty - please try again"
-msgstr ""
+msgstr "La clave no puede estar vacía, por favor intenta otra vez"
 
 #: ../gui/master_password.go:33
 msgid "Passwords have to be the same - please try again"
-msgstr ""
+msgstr "Las claves tienen que ser iguales - por favor intenta otra vez"
 
 #: ../gui/master_password.go:114
 msgid "Incorrect password entered, please try again."
-msgstr ""
+msgstr "Has ingresado una clave incorrecta, por favor intenta otra vez"
 
 #: ../gui/master_password.go:121
 msgid "Checking password..."
-msgstr ""
+msgstr "Verificando la clave..."
 
 #: ../gui/importer.go:198
 msgid "Import private keys"
-msgstr ""
+msgstr "Impirtar llaves privadas"
 
 #: ../gui/importer.go:201 ../gui/importer.go:223 ../gui/importer.go:247
 #: ../gui/importer.go:269
 msgid "_Cancel"
-msgstr ""
+msgstr "_Cancelar"
 
 #: ../gui/importer.go:203 ../gui/importer.go:249
 msgid "_Import"
-msgstr ""
+msgstr "_Importar"
 
 #: ../gui/importer.go:210
 msgid "Keys imported"
-msgstr ""
+msgstr "Llaves importadas"
 
 #: ../gui/importer.go:210
 #, python-format
 msgid "%d key(s) were imported correctly."
-msgstr ""
+msgstr "%d llave(s) fueron importadas correctamente."
 
 #: ../gui/importer.go:212
 msgid "Failure importing keys"
-msgstr ""
+msgstr "Falla importando llaves"
 
 #: ../gui/importer.go:212
 #, python-format
 msgid "Couldn't import any keys from %s."
-msgstr ""
+msgstr "No se pudo importar llaves desde %s."
 
 #: ../gui/importer.go:220
 msgid "Export private keys"
-msgstr ""
+msgstr "Exportar llaves privadas"
 
 #: ../gui/importer.go:225 ../gui/importer.go:271
 msgid "_Export"
-msgstr ""
+msgstr "_Export"
 
 #: ../gui/importer.go:234
 msgid "Keys exported"
-msgstr ""
+msgstr "Llaves exportadas"
 
 #: ../gui/importer.go:234
 msgid "Keys were exported correctly."
-msgstr ""
+msgstr "Las llaves fueron exportadas correctamente."
 
 #: ../gui/importer.go:236
 msgid "Failure exporting keys"
-msgstr ""
+msgstr "Falla exportando llaves"
 
 #: ../gui/importer.go:236
 #, python-format
 msgid "Couldn't export keys to %s."
-msgstr ""
+msgstr "No se pudo exportar llaves a %s."
 
 #: ../gui/importer.go:244
 msgid "Import fingerprints"
-msgstr ""
+msgstr "Importar huellas digitales"
 
 #: ../gui/importer.go:256
 msgid "Fingerprints imported"
-msgstr ""
+msgstr "Huellas Digitales importadas"
 
 #: ../gui/importer.go:256
 #, python-format
 msgid "%d fingerprint(s) were imported correctly."
-msgstr ""
+msgstr "%d huella(s) digital(es) fueron importadas correctamente."
 
 #: ../gui/importer.go:258
 msgid "Failure importing fingerprints"
-msgstr ""
+msgstr "Error importando huellas digitales"
 
 #: ../gui/importer.go:258
 #, python-format
 msgid "Couldn't import any fingerprints from %s."
-msgstr ""
+msgstr "No se pudo importar huellas digitales desde %s."
 
 #: ../gui/importer.go:266
 msgid "Export fingerprints"
-msgstr ""
+msgstr "Exportar huellas digitales"
 
 #: ../gui/importer.go:280
 msgid "Fingerprints exported"
-msgstr ""
+msgstr "Huellas Digitales exportadas"
 
 #: ../gui/importer.go:280
 msgid "Fingerprints were exported correctly."
-msgstr ""
+msgstr "Las huellas digitales fueron exportadas correctamente."
 
 #: ../gui/importer.go:282
 msgid "Failure exporting fingerprints"
-msgstr ""
+msgstr "Falla exportando huellas digitales"
 
 #: ../gui/importer.go:282
 #, python-format
 msgid "Couldn't export fingerprints to %s."
-msgstr ""
+msgstr "No se pudo exportar huellas digitales a %s."
 
 #: ../gui/accounts_menu.go:28
 msgid "Connect On _Startup"
-msgstr ""
+msgstr "Conectar al _Iniciar"
 
 #: ../gui/accounts_menu.go:38
 msgid "_Connect All"
-msgstr ""
+msgstr "_Conectar todos"
 
 #: ../gui/accounts_menu.go:49
 msgid "_Import..."
-msgstr ""
+msgstr "_Importar..."
 
 #: ../gui/accounts_menu.go:53
 msgid "_Register..."
-msgstr ""
+msgstr "_Registrar..."
 
 #: ../gui/conversation.go:145
 #, python-format
 msgid "Failed to generate OTR message: %s\n"
-msgstr ""
+msgstr "Falla al generar mensaje OTR: %s\n"
 
 #: ../gui/conversation.go:171
 #, python-format
 msgid "Failed to terminate the encrypted chat: %s\n"
-msgstr ""
+msgstr "Falla al terminar el chat encriptado: %s\n "
 
 #: ../gui/conversation.go:379
 msgid "Available"
-msgstr ""
+msgstr "Disponible"
 
 #: ../gui/conversation.go:381
 msgid "Not Available"
-msgstr ""
+msgstr "No Disponible"
 
 #: ../gui/conversation.go:383
 msgid "Away"
-msgstr ""
+msgstr "No estoy"
 
 #: ../gui/conversation.go:385
 msgid "Busy"
-msgstr ""
+msgstr "Ocupado"
 
 #: ../gui/conversation.go:387
 msgid "Free for Chat"
-msgstr ""
+msgstr "Libre para chatear"
 
 #: ../gui/conversation.go:389
 msgid "Invisible"
-msgstr ""
+msgstr "Invisible"
 
 #: ../gui/conversation.go:424
 msgid "Offline"
-msgstr ""
+msgstr "Fuera de Línea"
 
 #: ../gui/conversation.go:430
 msgid " is now "
-msgstr ""
+msgstr " es ahora"
 
 #: ../gui/account.go:151
 msgid "Account added"
-msgstr ""
+msgstr "Cuenta agregada"
 
 #: ../gui/account.go:151
 #, python-format
 msgid "The account %s was added successfully."
-msgstr ""
+msgstr "La cuenta %s fue agregada con éxito"
 
 #: ../gui/account.go:198
 msgid "_Connect"
-msgstr ""
+msgstr "_Conectar"
 
 #: ../gui/account.go:201
 msgid "_Disconnect"
-msgstr ""
+msgstr "_Desconectar"
 
 #: ../gui/account.go:210
 msgid "Connect _Automatically"
-msgstr ""
+msgstr "Conectar _Automáticamente"
 
 #: ../gui/account.go:214
 msgid "Always Encrypt Conversation"
-msgstr ""
+msgstr "Encriptar la conversación siempre"
 
 #: ../gui/account.go:296
 #, python-format
@@ -659,6 +663,8 @@ msgid ""
 "Connecting account\n"
 "%s"
 msgstr ""
+"Conectando cuenta\n"
+"%s"
 
 #: ../gui/account.go:300
 #, python-format
@@ -666,18 +672,20 @@ msgid ""
 "Connection failure\n"
 "%s"
 msgstr ""
+"Falla en la conexión \n"
+"%s"
 
 #: ../gui/account.go:304
 msgid "Tor is not currently running"
-msgstr ""
+msgstr "Tor no está corriendo en este momento"
 
 #: ../gui/account_events.go:144
 msgid "Private conversation lost."
-msgstr ""
+msgstr "Se ha perdido la conversación privada."
 
 #: ../gui/account_events.go:152
 msgid "Private conversation started."
-msgstr ""
+msgstr "Conversación privada ha iniciado"
 
 #: ../gui/account_events.go:152
 msgid "Unverified conversation started."
