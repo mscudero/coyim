@@ -689,20 +689,20 @@ msgstr "Conversación privada ha iniciado"
 
 #: ../gui/account_events.go:152
 msgid "Unverified conversation started."
-msgstr ""
+msgstr "No se ha verificado que la conversación comenzó."
 
 #: ../gui/account_events.go:160
 msgid "Successfully refreshed the private conversation."
-msgstr ""
+msgstr "Se ha refrescado con éxito la conversación privada."
 
 #: ../gui/account_events.go:160
 msgid "Successfully refreshed the unverified private conversation."
-msgstr ""
+msgstr "Se ha refrescado con éxito la conversación privada sin verificar."
 
 #: ../gui/subscription.go:18
 #, python-format
 msgid "%s wants to talk to you. Is that ok?"
-msgstr ""
+msgstr "%s quiere hablar contigo. ¿Está bien?"
 
 #: ../gui/fingerprint_verification.go:19
 #, python-format
@@ -710,13 +710,15 @@ msgid ""
 "You can't verify the fingerprint for %s yet.\n"
 "You first have to start an encrypted conversation with them."
 msgstr ""
+"Aún no puedes verificar la huella digital para %s.\n"
+""
 
 #: ../gui/fingerprint_verification.go:54
 #, python-format
 msgid "Verify fingerprint for %s"
-msgstr ""
+msgstr "Verificar huella digital para %s"
 
 #: ../gui/notifications.go:49
 #, python-format
 msgid "You have not verified the identity of %s"
-msgstr ""
+msgstr "No has verificado la identidad de %s"
