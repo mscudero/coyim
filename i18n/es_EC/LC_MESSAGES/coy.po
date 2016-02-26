@@ -51,7 +51,7 @@ msgstr "Servidor (dejar en blanco por defecto)"
 
 #: ../gui/definitions/AccountDetails.xml:143
 msgid "Port (leave empty for default)"
-msgstr "Puerto (dejar en blanco por defecto"
+msgstr "Puerto (dejar en blanco por defecto)"
 
 #: ../gui/definitions/AccountDetails.xml:165
 #: ../gui/definitions/AccountRegistration.xml:29
@@ -711,7 +711,7 @@ msgid ""
 "You first have to start an encrypted conversation with them."
 msgstr ""
 "Aún no puedes verificar la huella digital para %s.\n"
-""
+"primero tienes que iniciar una conversación encriptada con ellos."
 
 #: ../gui/fingerprint_verification.go:54
 #, python-format
